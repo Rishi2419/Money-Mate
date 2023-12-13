@@ -1,9 +1,11 @@
 I am thrilled to share that I recently participated in the Geeks for Geeks Hackathon at SK Somaiya College, and our team worked on an amazing project called Money Mate. 🌟
 
 📌 Project Title: Money Mate
+
 🎯 Theme: Finance Management
 
 💻 **Website: 
+
 📱 **Mobile App: https://github.com/Rishi2419/Money-Mate
 
 **Tech Stack:**
