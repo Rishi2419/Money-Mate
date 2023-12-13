@@ -216,18 +216,6 @@
 
                 />
 
-            <com.google.android.material.floatingactionbutton.FloatingActionButton
-                android:id="@+id/aibot"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="16dp"
-                android:contentDescription="@string/add_transaction"
-                android:foregroundGravity="center"
-                android:src="@drawable/ic_baseline_add_24"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintBottom_toTopOf="@+id/add_new"
-                tools:ignore="HardcodedText"
-                tools:layout_editor_absoluteY="535dp" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </androidx.core.widget.NestedScrollView>
