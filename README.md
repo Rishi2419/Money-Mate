@@ -43,13 +43,13 @@ Enjoy the convenience of in-built fingerprint sensor support for added security.
 Money Mate features a modern design, complete with a sleek logo, making finance management a delightful experience.
 Kudos to the team for their hard work and dedication to creating an app that combines functionality with a great user experience. 💪
 
-![mockup money mate](https://github.com/Rishi2419/Money-Mate/assets/114185158/5d5f284d-6fa2-447e-af21-2885605dd111)
-
-
-
 
 I'm grateful for the opportunity to be part of this hackathon and contribute to innovative solutions in the field of finance management. 🌐
 
 Members: Rishikesh Sahu, Akash Nachare
+
+
+📱App Interfaces Screenshots:
+
 
 #Hackathon #FinanceManagement #MoneyMate #TechInnovation #GeeksForGeeks #SKSomaiyaCollege #Programming #Technology #Innovation
