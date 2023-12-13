@@ -4,11 +4,11 @@ I am thrilled to share that I recently participated in the Geeks for Geeks Hacka
 
 🎯 Theme: Finance Management
 
-💻 **Website Repository: 
+💻 **Website Repository: https://github.com/akash151723/MONEY-MATE
 
 📱 **Mobile App Repository: https://github.com/Rishi2419/Money-Mate
 
-💻 **Website Video : 
+💻 **Website Video : https://www.youtube.com/watch?v=xALqhuwu2Yk
 
 📱 **Mobile App Video : https://www.youtube.com/watch?v=ifX_XzJnu84
 
