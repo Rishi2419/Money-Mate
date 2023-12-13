@@ -51,6 +51,8 @@ Members: Rishikesh Sahu, Akash Nachare
 
 📱App Interfaces Screenshots:
 ![ssapp](https://github.com/Rishi2419/Money-Mate/assets/114185158/ddd82916-609e-44fb-88aa-ffc893b98a0c)
+![ssapp2](https://github.com/Rishi2419/Money-Mate/assets/114185158/63f754fc-d5e6-4062-af90-0701f174e1c7)
+
 
 
 
