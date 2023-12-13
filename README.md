@@ -50,7 +50,8 @@ Members: Rishikesh Sahu, Akash Nachare
 
 
 📱App Interfaces Screenshots:
-https://github.com/Rishi2419/Money-Mate/issues/2#issue-2040562191
+![mm3](https://github.com/Rishi2419/Money-Mate/assets/114185158/a2de69a6-9c2d-44d3-9265-14f6cc924487)
+
 
 
 #Hackathon #FinanceManagement #MoneyMate #TechInnovation #GeeksForGeeks #SKSomaiyaCollege #Programming #Technology #Innovation
